@@ -1,0 +1,114 @@
+{
+  "avocats": [
+    {
+      "id": 1,
+      "nome": "Boutheina ADIB",
+      "slug": "boutheina-adib",
+      "indirizzo": "36 Rue de la Première Armée",
+      "citta": "Strasbourg",
+      "cap": "67000",
+      "ordine": "Barreau de Strasbourg",
+      "serment": "2023",
+      "telefono": "à personnaliser",
+      "email": "contact@boutheina-adib-avocat.fr",
+      "competenze": [
+        "Droit des étrangers et de la nationalité",
+        "Droit pénal",
+        "Droit des sociétés"
+      ],
+      "esperienza": "avvocata specializzata in diritto degli stranieri e diritto penale",
+      "descrizione_breve": "Avocate à Strasbourg, Maître Boutheina ADIB intervient tant en matière de conseil que de contentieux, principalement en Droit des étrangers, Droit de la famille, des personnes et de leur patrimoine, Droit des sociétés et Droit pénal."
+    },
+    {
+      "id": 2,
+      "nome": "Jihane ABBASS",
+      "slug": "jihane-abbass",
+      "indirizzo": "7 Rue de Lisbonne",
+      "citta": "Schiltigheim",
+      "cap": "67300",
+      "ordine": "Barreau de Strasbourg",
+      "serment": "",
+      "telefono": "à personnaliser",
+      "email": "contact@jihane-abbass-avocat.fr",
+      "competenze": [
+        "Droit de la propriété intellectuelle",
+        "Droit du numérique et des communications",
+        "Droit commercial, des affaires et de la concurrence"
+      ],
+      "esperienza": "avvocata specializzata in proprietà intellettuale e diritto commerciale",
+      "descrizione_breve": "Avocate à Strasbourg, Maître Jihane ABBASS intervient tant en matière de conseil que de contentieux, principalement en droit de la propriété intellectuelle, droit commercial et droit des affaires."
+    },
+    {
+      "id": 3,
+      "nome": "Meryem AFARKOUS",
+      "slug": "meryem-afarkous",
+      "indirizzo": "Centre d'Affaires ATHENA",
+      "citta": "Lingolsheim",
+      "cap": "67380",
+      "ordine": "Barreau de Strasbourg",
+      "serment": "2013",
+      "telefono": "à personnaliser",
+      "email": "contact@meryem-afarkous-avocat.fr",
+      "competenze": [
+        "Droit pénal",
+        "Droit commercial, des affaires et de la concurrence",
+        "Droit de la famille, des personnes et de leur patrimoine"
+      ],
+      "esperienza": "avvocata con esperienza in diritto penale e diritto commerciale",
+      "descrizione_breve": "Maître Meryem AFARKOUS exerce à Lingolsheim en tant qu'avocat en Droit des sociétés, Droit de la famille, des personnes et de leur patrimoine et Droit commercial, des affaires et de la concurrence."
+    },
+    {
+      "id": 4,
+      "nome": "Christina ALEVROPOULOU",
+      "slug": "christina-alevropoulou",
+      "indirizzo": "2 rue St Maurice",
+      "citta": "Strasbourg",
+      "cap": "67000",
+      "ordine": "Barreau de Strasbourg",
+      "serment": "",
+      "telefono": "à personnaliser",
+      "email": "contact@christina-alevropoulou-avocat.fr",
+      "competenze": [
+        "Conseil juridique",
+        "Représentation en justice",
+        "Gestion de dossiers"
+      ],
+      "esperienza": "avvocata con expertise in consulenza legale",
+      "descrizione_breve": "Maître Christina ALEVROPOULOU exerce son activité d'avocat à Strasbourg et assure auprès de ses clients un rôle de conseil et de représentation en justice."
+    },
+    {
+      "id": 5,
+      "nome": "Souad AJEBBAR",
+      "slug": "souad-ajebbar",
+      "indirizzo": "4 Rue de Copenhague, Espace Européen de L'Entreprise, Immeuble le Panorama",
+      "citta": "Schiltigheim",
+      "cap": "67300",
+      "ordine": "Barreau de Strasbourg",
+      "serment": "9 janvier 2024",
+      "telefono": "à personnaliser",
+      "email": "contact@souad-ajebbar-avocat.fr",
+      "competenze": [],
+      "esperienza": "avvocata specializzata",
+      "descrizione_breve": "Avocate au Barreau de Strasbourg, Souad AJEBBAR vous assiste en matière juridique avec rigueur, humanité et détermination."
+    },
+    {
+      "id": 6,
+      "nome": "Zahra AGBO-KHAFFANE",
+      "slug": "zahra-agbo-khaffane",
+      "indirizzo": "5 Rue de la Coopérative",
+      "citta": "Strasbourg",
+      "cap": "67000",
+      "ordine": "Barreau de Strasbourg",
+      "sermont": "2008",
+      "telefono": "à personnaliser",
+      "email": "contact@zahra-agbo-khaffane-avocat.fr",
+      "competenze": [
+        "Droit commercial, des affaires et de la concurrence",
+        "Droit du travail",
+        "Procédure civile"
+      ],
+      "esperienza": "avvocata con expertise in diritto commerciale e diritto del lavoro",
+      "descrizione_breve": "Maître Zahra AGBO-KHAFFANE exerce à Strasbourg en tant qu'avocat en Droit commercial, des affaires et de la concurrence, Droit du travail et Procédure civile."
+    }
+  ]
+}
